@@ -10,6 +10,10 @@ Visit the Figma Education Plan application page [here](https://www.figma.com/edu
 
 I am a student living in Iran. Due to financial restrictions and heavy international sanctions against Iran, it is not possible for me to pay the fee. With all these limitations, as a student, I am eager to learn UI and UX, and I am sure that this tool can improve my career and financial future. I would be very grateful if you let me use this magical tool to build my future and make the world better.
 
+## University website
+
+https://nus.ac.ir/
+
 ## Supporting Documents
 
 Below is an image of the course I am currently enrolled in, which includes design-related content:
