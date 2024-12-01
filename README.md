@@ -2,6 +2,8 @@
 
 This repository documents my application process for Figma's Education Plan.
 
+Full tutorial link: https://www.youtube.com/watch?v=jmEFjIrLpI8&t=598s
+
 ## Application URL
 
 Visit the Figma Education Plan application page [here](https://www.figma.com/education/apply).
